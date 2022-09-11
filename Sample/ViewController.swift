@@ -9,7 +9,7 @@ class ___FILEBASENAME___: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    // Hello I'm a comment
+    // Hello I'm a comment so am I 
 
 }
 
