@@ -7,21 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		441082E328CF449C0054792B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441082E228CF449C0054792B /* Assets.xcassets */; };
+		4410830828CF483E0054792B /* Background@3x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 441082FC28CF483D0054792B /* Background@3x.jpg */; };
+		4410830928CF483E0054792B /* Background@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 441082FD28CF483D0054792B /* Background@2x.jpg */; };
+		4410830A28CF483E0054792B /* Email.png in Resources */ = {isa = PBXBuildFile; fileRef = 441082FE28CF483D0054792B /* Email.png */; };
+		4410830B28CF483E0054792B /* Email@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 441082FF28CF483D0054792B /* Email@3x.png */; };
+		4410830C28CF483E0054792B /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4410830028CF483E0054792B /* Background.jpg */; };
+		4410830D28CF483E0054792B /* FB@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830128CF483E0054792B /* FB@3x.png */; };
+		4410830E28CF483E0054792B /* Google.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830228CF483E0054792B /* Google.png */; };
+		4410830F28CF483E0054792B /* Google@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830328CF483E0054792B /* Google@2x.png */; };
+		4410831028CF483E0054792B /* FB.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830428CF483E0054792B /* FB.png */; };
+		4410831128CF483E0054792B /* Google@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830528CF483E0054792B /* Google@3x.png */; };
+		4410831228CF483E0054792B /* FB@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830628CF483E0054792B /* FB@2x.png */; };
+		4410831328CF483E0054792B /* Email@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4410830728CF483E0054792B /* Email@2x.png */; };
 		4435076E28CE6AF200B07673 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4435076D28CE6AF200B07673 /* AppDelegate.swift */; };
 		4435077028CE6AF200B07673 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4435076F28CE6AF200B07673 /* SceneDelegate.swift */; };
 		4435077228CE6AF200B07673 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4435077128CE6AF200B07673 /* ViewController.swift */; };
 		4435077528CE6AF200B07673 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4435077328CE6AF200B07673 /* Main.storyboard */; };
-		4435077728CE6AF400B07673 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4435077628CE6AF400B07673 /* Assets.xcassets */; };
 		4435077A28CE6AF400B07673 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4435077828CE6AF400B07673 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		441082E228CF449C0054792B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		441082FC28CF483D0054792B /* Background@3x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Background@3x.jpg"; sourceTree = "<group>"; };
+		441082FD28CF483D0054792B /* Background@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Background@2x.jpg"; sourceTree = "<group>"; };
+		441082FE28CF483D0054792B /* Email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Email.png; sourceTree = "<group>"; };
+		441082FF28CF483D0054792B /* Email@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Email@3x.png"; sourceTree = "<group>"; };
+		4410830028CF483E0054792B /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		4410830128CF483E0054792B /* FB@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FB@3x.png"; sourceTree = "<group>"; };
+		4410830228CF483E0054792B /* Google.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Google.png; sourceTree = "<group>"; };
+		4410830328CF483E0054792B /* Google@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Google@2x.png"; sourceTree = "<group>"; };
+		4410830428CF483E0054792B /* FB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FB.png; sourceTree = "<group>"; };
+		4410830528CF483E0054792B /* Google@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Google@3x.png"; sourceTree = "<group>"; };
+		4410830628CF483E0054792B /* FB@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FB@2x.png"; sourceTree = "<group>"; };
+		4410830728CF483E0054792B /* Email@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Email@2x.png"; sourceTree = "<group>"; };
 		4435076A28CE6AF200B07673 /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4435076D28CE6AF200B07673 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4435076F28CE6AF200B07673 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4435077128CE6AF200B07673 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4435077428CE6AF200B07673 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4435077628CE6AF400B07673 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4435077928CE6AF400B07673 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4435077B28CE6AF400B07673 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,7 +84,19 @@
 				4435076F28CE6AF200B07673 /* SceneDelegate.swift */,
 				4435077128CE6AF200B07673 /* ViewController.swift */,
 				4435077328CE6AF200B07673 /* Main.storyboard */,
-				4435077628CE6AF400B07673 /* Assets.xcassets */,
+				441082E228CF449C0054792B /* Assets.xcassets */,
+				4410830028CF483E0054792B /* Background.jpg */,
+				441082FD28CF483D0054792B /* Background@2x.jpg */,
+				441082FC28CF483D0054792B /* Background@3x.jpg */,
+				441082FE28CF483D0054792B /* Email.png */,
+				4410830728CF483E0054792B /* Email@2x.png */,
+				441082FF28CF483D0054792B /* Email@3x.png */,
+				4410830428CF483E0054792B /* FB.png */,
+				4410830628CF483E0054792B /* FB@2x.png */,
+				4410830128CF483E0054792B /* FB@3x.png */,
+				4410830228CF483E0054792B /* Google.png */,
+				4410830328CF483E0054792B /* Google@2x.png */,
+				4410830528CF483E0054792B /* Google@3x.png */,
 				4435077828CE6AF400B07673 /* LaunchScreen.storyboard */,
 				4435077B28CE6AF400B07673 /* Info.plist */,
 			);
@@ -125,9 +161,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4410831228CF483E0054792B /* FB@2x.png in Resources */,
+				4410830A28CF483E0054792B /* Email.png in Resources */,
+				4410830B28CF483E0054792B /* Email@3x.png in Resources */,
+				4410830E28CF483E0054792B /* Google.png in Resources */,
 				4435077A28CE6AF400B07673 /* LaunchScreen.storyboard in Resources */,
-				4435077728CE6AF400B07673 /* Assets.xcassets in Resources */,
+				441082E328CF449C0054792B /* Assets.xcassets in Resources */,
+				4410831128CF483E0054792B /* Google@3x.png in Resources */,
+				4410831028CF483E0054792B /* FB.png in Resources */,
 				4435077528CE6AF200B07673 /* Main.storyboard in Resources */,
+				4410830C28CF483E0054792B /* Background.jpg in Resources */,
+				4410830928CF483E0054792B /* Background@2x.jpg in Resources */,
+				4410830828CF483E0054792B /* Background@3x.jpg in Resources */,
+				4410830D28CF483E0054792B /* FB@3x.png in Resources */,
+				4410831328CF483E0054792B /* Email@2x.png in Resources */,
+				4410830F28CF483E0054792B /* Google@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
